@@ -30,7 +30,7 @@
       <div class="header-top">
         <a class="site-name" href="${pageUrl("index", lang)}">Shigeki Miyazaki</a>
         <div class="language-switch">
-          ${langLink("en", "EN")}<span class="separator">/</span>${langLink("ja", "JP")}
+          ${langLink("ja", "JA")}<span class="separator">/</span>${langLink("en", "EN")}
         </div>
       </div>
       <nav class="site-nav">${nav}</nav>
